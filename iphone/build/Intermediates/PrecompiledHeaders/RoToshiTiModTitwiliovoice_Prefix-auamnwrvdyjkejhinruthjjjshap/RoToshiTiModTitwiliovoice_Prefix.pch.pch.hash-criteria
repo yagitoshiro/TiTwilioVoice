@@ -1,0 +1,27 @@
+-x
+objective-c
+-arch
+x86_64
+-std=c99
+-fpascal-strings
+-O0
+-DTI_VERSION=
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.1.sdk
+-fasm-blocks
+-mios-simulator-version-min=6.0
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-I/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone/build/Products/Debug-iphonesimulator/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include/TiCore
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include/JavaScriptCore
+-F/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone/build/Products/Debug-iphonesimulator
+-F/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone
+-DDEBUG
+-DTI_POST_1_2
+x86_64-apple-darwin16.1.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14B72
+14B72

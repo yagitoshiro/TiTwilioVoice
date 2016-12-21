@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiTwilioVoice
+author: Toshiro Yagi
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: TiTwilioVoice
+moduleid: ro.toshi.ti.mod.titwiliovoice
+guid: c7c993d4-bae7-44ce-8bab-4e627c841cbf
+platform: mobileweb
+minsdk: 6.0.0.GA

@@ -1,0 +1,26 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-fpascal-strings
+-Os
+-DTI_VERSION=
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.1.sdk
+-miphoneos-version-min=6.0
+-g
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone/build/Release-iphoneos/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include/TiCore
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/iphone/include/JavaScriptCore
+-F/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone/build/Release-iphoneos
+-F/Users/toshiro/Appcelerator_Studio_Workspace/TiTwilioVoice/iphone
+-DTI_POST_1_2
+arm-apple-darwin16.1.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14B72
+14B72
